@@ -1,0 +1,1091 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Venture\n"
+"POT-Creation-Date: 2016-03-05 17:50+0000\n"
+"PO-Revision-Date: 2015-09-04 18:01-0000\n"
+"Last-Translator: \n"
+"Language-Team: pipdig\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../.git\n"
+"X-Poedit-SearchPathExcluded-1: ../css\n"
+"X-Poedit-SearchPathExcluded-2: ../js\n"
+
+#: ../404.php:9
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:13
+msgid "It looks like this page is missing. Maybe try a search below?"
+msgstr ""
+
+#: ../content-grid.php:48 ../content.php:49 ../functions.php:552
+#: ../inc/chunks/layerslider-full-width.php:53 ../inc/chunks/top-slider.php:41
+msgid "View Post"
+msgstr ""
+
+#: ../content-none.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:9
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:13
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:18
+msgid "Sorry, We can&rsquo;t find that page!"
+msgstr ""
+
+#: ../content-page.php:10
+msgid "Pages:"
+msgstr ""
+
+#: ../content-single.php:49
+msgid ", "
+msgstr ""
+
+#: ../content-single.php:55
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../footer.php:18
+msgid "Where to next?"
+msgstr ""
+
+#: ../functions.php:67
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:68
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:108
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../functions.php:210
+msgid ""
+"You will need to enable the sidebar in the Customizer before adding widgets "
+"to this section."
+msgstr ""
+
+#: ../functions.php:214
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions.php:223
+msgid "Footer #1"
+msgstr ""
+
+#: ../functions.php:231
+msgid "Footer #2"
+msgstr ""
+
+#: ../functions.php:239
+msgid "Footer #3"
+msgstr ""
+
+#: ../functions.php:247
+msgid "Footer #4"
+msgstr ""
+
+#: ../functions.php:255
+msgid "Advert #1 (Below Header)"
+msgstr ""
+
+#: ../functions.php:257
+msgid ""
+"Use this widget area to display an advertising banner below your header. "
+"Simply add a Text Widget by dragging it into this box, then copy and paste "
+"your banner advert code into it. You should use a responsive banner for this "
+"section."
+msgstr ""
+
+#: ../functions.php:264
+msgid "Advert #2 (Footer)"
+msgstr ""
+
+#: ../functions.php:266
+msgid ""
+"Use this widget area to display an advertising banner below the main content "
+"of your website. Simply add a Text Widget by dragging it into this box, then "
+"copy and paste your banner advert code into it. You should use a responsive "
+"banner for this section."
+msgstr ""
+
+#: ../functions.php:476 ../inc/template-tags.php:38
+msgid "Newer Posts"
+msgstr ""
+
+#: ../functions.php:477 ../inc/template-tags.php:34
+msgid "Older Posts"
+msgstr ""
+
+#: ../functions.php:641
+msgid "Extra Post Options"
+msgstr ""
+
+#: ../functions.php:654
+msgid "Where did you write this post?"
+msgstr ""
+
+#: ../functions.php:655
+msgid "This will be shown in the footer of the post, linking to a Google Map."
+msgstr ""
+
+#: ../functions.php:657
+msgid "e.g. London"
+msgstr ""
+
+#: ../functions.php:661 ../inc/customizer.php:503
+msgid "Sidebar position:"
+msgstr ""
+
+#: ../functions.php:671
+msgid "Disclaimer to display in footer:"
+msgstr ""
+
+#: ../inc/chunks/addthis.php:2
+msgid "Share:"
+msgstr ""
+
+#: ../inc/chunks/layerslider-full-width.php:51
+msgid "Posted in:"
+msgstr ""
+
+#: ../inc/chunks/post-slider.php:5
+msgid "Recent Posts"
+msgstr ""
+
+#: ../inc/chunks/related.php:44
+msgid "You may also enjoy:"
+msgstr ""
+
+#: ../inc/chunks/scotch.php:3
+msgid "Close Me"
+msgstr ""
+
+#: ../inc/chunks/scotch.php:4
+msgid "Looking for Something?"
+msgstr ""
+
+#: ../inc/chunks/scotch.php:6
+msgid "Search:"
+msgstr ""
+
+#: ../inc/chunks/scotch.php:10
+msgid "Product Categories:"
+msgstr ""
+
+#: ../inc/chunks/scotch.php:14
+msgid "Post Categories:"
+msgstr ""
+
+#: ../inc/chunks/sig-socialz.php:16
+msgid "Follow:"
+msgstr ""
+
+#: ../inc/chunks/trending.php:7
+msgid "Big this Month"
+msgstr ""
+
+#: ../inc/customizer.php:79
+msgid "Header Options"
+msgstr ""
+
+#: ../inc/customizer.php:87
+msgid "General Options"
+msgstr ""
+
+#: ../inc/customizer.php:95
+msgid "Layout Options"
+msgstr ""
+
+#: ../inc/customizer.php:103
+msgid "Post Layout Options"
+msgstr ""
+
+#: ../inc/customizer.php:104
+msgid ""
+"Use these settings to select different post layouts for your blog. You can "
+"also change the number of posts displayed by going to 'Settings > Reading' "
+"in your dashboard."
+msgstr ""
+
+#: ../inc/customizer.php:112
+msgid "Color Options"
+msgstr ""
+
+#: ../inc/customizer.php:119
+msgid "Background Image"
+msgstr ""
+
+#: ../inc/customizer.php:120
+msgid ""
+"Use these options to add a background image to your site. Note, if you would "
+"like a solid color please use the options in the \"Color Options\" section "
+"above."
+msgstr ""
+
+#: ../inc/customizer.php:127
+msgid "Font Options"
+msgstr ""
+
+#: ../inc/customizer.php:128
+msgid ""
+"If you would like even more font options, we recommend using <a href="
+"\"https://goo.gl/12Xv2n\" target=\"_blank\" rel=\"nofollow\">this plugin</a>."
+msgstr ""
+
+#: ../inc/customizer.php:136
+msgid "Homepage Options"
+msgstr ""
+
+#: ../inc/customizer.php:144
+msgid "Post Category Options"
+msgstr ""
+
+#: ../inc/customizer.php:145
+msgid "These options will apply to post categories."
+msgstr ""
+
+#: ../inc/customizer.php:153
+msgid "Blog Post Options"
+msgstr ""
+
+#: ../inc/customizer.php:162
+msgid "Woocommerce Options"
+msgstr ""
+
+#: ../inc/customizer.php:173
+msgid "Instagram Footer"
+msgstr ""
+
+#: ../inc/customizer.php:176
+msgid ""
+"Display your Instagram feed across the bottom of your site (You will need to "
+"setup <a href=\"https://wordpress.org/plugins/instagram-feed/\" target="
+"\"_blank\" rel=\"nofollow\"><strong>this plugin</strong></a> first)"
+msgstr ""
+
+#: ../inc/customizer.php:182
+msgid "Bloglovin' Widget"
+msgstr ""
+
+#: ../inc/customizer.php:183
+msgid "Use these settings to style our custom Bloglovin' Widget."
+msgstr ""
+
+#: ../inc/customizer.php:193
+msgid "Full Width Slider"
+msgstr ""
+
+#: ../inc/customizer.php:194
+msgid ""
+"Use these options to display a full width post slider under the header. "
+"NOTE: for a post to be included in the slider it needs to have a \"Featured "
+"Image\" set."
+msgstr ""
+
+#: ../inc/customizer.php:201
+msgid "Large Square Slider"
+msgstr ""
+
+#: ../inc/customizer.php:202
+msgid ""
+"Use these options to display alarge square shaped post slider at the top of "
+"the home page. NOTE: for a post to be included it needs to have a \"Featured "
+"Image\" set."
+msgstr ""
+
+#: ../inc/customizer.php:209
+msgid "Posts Carousel"
+msgstr ""
+
+#: ../inc/customizer.php:210
+msgid ""
+"Use these options to display a carousel of posts. NOTE: for a post to be "
+"included it needs to have a \"Featured Image\" set."
+msgstr ""
+
+#: ../inc/customizer.php:230
+msgid "Upload a header image"
+msgstr ""
+
+#: ../inc/customizer.php:249
+msgid "Header image spacing"
+msgstr ""
+
+#: ../inc/customizer.php:250
+msgid "Move the slider to increase the space above your header image:"
+msgstr ""
+
+#: ../inc/customizer.php:271
+msgid "Remove the tagline from header"
+msgstr ""
+
+#: ../inc/customizer.php:291
+msgid "Enable full width slider"
+msgstr ""
+
+#: ../inc/customizer.php:307
+msgid "Home page only"
+msgstr ""
+
+#: ../inc/customizer.php:308
+msgid ""
+"Select this option if you want to display the slider on the home page and "
+"nowhere else"
+msgstr ""
+
+#: ../inc/customizer.php:323
+msgid "Number of posts to show in the slider"
+msgstr ""
+
+#: ../inc/customizer.php:347
+msgid "How long should each slide be displayed?"
+msgstr ""
+
+#: ../inc/customizer.php:350
+msgid "3 seconds"
+msgstr ""
+
+#: ../inc/customizer.php:351
+msgid "4 seconds"
+msgstr ""
+
+#: ../inc/customizer.php:352
+msgid "5 seconds"
+msgstr ""
+
+#: ../inc/customizer.php:353
+msgid "6 seconds"
+msgstr ""
+
+#: ../inc/customizer.php:354
+msgid "7 seconds"
+msgstr ""
+
+#: ../inc/customizer.php:355
+msgid "8 seconds"
+msgstr ""
+
+#: ../inc/customizer.php:371
+msgid "Slider animation style"
+msgstr ""
+
+#: ../inc/customizer.php:374
+msgid "Fade"
+msgstr ""
+
+#: ../inc/customizer.php:375
+msgid "Slide"
+msgstr ""
+
+#: ../inc/customizer.php:387 ../inc/customizer.php:823
+#: ../inc/customizer.php:893
+msgid "Only display posts from:"
+msgstr ""
+
+#: ../inc/customizer.php:405
+msgid "Include post category"
+msgstr ""
+
+#: ../inc/customizer.php:406
+msgid "Display the main category of the post"
+msgstr ""
+
+#: ../inc/customizer.php:422
+msgid "Display post category"
+msgstr ""
+
+#: ../inc/customizer.php:423
+msgid ""
+"You should probably disable this if you select to show posts from a single "
+"category."
+msgstr ""
+
+#: ../inc/customizer.php:439
+msgid "Include post excerpt"
+msgstr ""
+
+#: ../inc/customizer.php:440
+msgid "Display the excerpt from the post."
+msgstr ""
+
+#: ../inc/customizer.php:462
+msgid "Main Width"
+msgstr ""
+
+#: ../inc/customizer.php:463
+msgid "The number below is how wide your website is in pixels:"
+msgstr ""
+
+#: ../inc/customizer.php:483
+msgid "Disable Responsive layout"
+msgstr ""
+
+#: ../inc/customizer.php:484
+msgid ""
+"This theme automatically adapts to different screen sizes. Select this "
+"option to disable this, and show the same thing on all devices (not "
+"recommended)."
+msgstr ""
+
+#: ../inc/customizer.php:505 ../inc/customizer.php:1705
+msgid "Left"
+msgstr ""
+
+#: ../inc/customizer.php:506 ../inc/customizer.php:1706
+msgid "Right"
+msgstr ""
+
+#: ../inc/customizer.php:523
+msgid "Completely disable the sidebar"
+msgstr ""
+
+#: ../inc/customizer.php:524
+msgid ""
+"Removes the sidebar from all pages and posts. This will override any "
+"settings below."
+msgstr ""
+
+#: ../inc/customizer.php:541
+msgid "Disable sidebar on home/blog"
+msgstr ""
+
+#: ../inc/customizer.php:557
+msgid "Disable sidebar on categories/archives"
+msgstr ""
+
+#: ../inc/customizer.php:573
+msgid "Disable sidebar on all posts"
+msgstr ""
+
+#: ../inc/customizer.php:590
+msgid "Disable sidebar on all pages"
+msgstr ""
+
+#: ../inc/customizer.php:608
+msgid "Disable sidebar on WooCommerce"
+msgstr ""
+
+#: ../inc/customizer.php:627
+msgid "Homepage layout"
+msgstr ""
+
+#: ../inc/customizer.php:628
+msgid "This setting will effect posts displayed on the homepage."
+msgstr ""
+
+#: ../inc/customizer.php:631 ../inc/customizer.php:655
+msgid "Full blog posts"
+msgstr ""
+
+#: ../inc/customizer.php:632 ../inc/customizer.php:656
+msgid "Excerpt/Summary only"
+msgstr ""
+
+#: ../inc/customizer.php:633 ../inc/customizer.php:657
+msgid "1st post Full, then grid for others"
+msgstr ""
+
+#: ../inc/customizer.php:634 ../inc/customizer.php:658
+msgid "1st post Excerpt, then grid for others"
+msgstr ""
+
+#: ../inc/customizer.php:635 ../inc/customizer.php:659
+msgid "Grid"
+msgstr ""
+
+#: ../inc/customizer.php:651
+msgid "Post Categories layout"
+msgstr ""
+
+#: ../inc/customizer.php:652
+msgid "This setting will effect posts displayed in categories."
+msgstr ""
+
+#: ../inc/customizer.php:674
+msgid "Excerpt length (words):"
+msgstr ""
+
+#: ../inc/customizer.php:675
+msgid "This setting will effect all posts when using an excerpt based layout."
+msgstr ""
+
+#: ../inc/customizer.php:701
+msgid "Display Social Media follow section"
+msgstr ""
+
+#: ../inc/customizer.php:702
+msgid ""
+"This option will add links to your social media pages at the end of each "
+"post."
+msgstr ""
+
+#: ../inc/customizer.php:718
+msgid "Show author name on posts"
+msgstr ""
+
+#: ../inc/customizer.php:719
+msgid "Shows the author's name next to the date on each post header"
+msgstr ""
+
+#: ../inc/customizer.php:735
+msgid "Post signature image"
+msgstr ""
+
+#: ../inc/customizer.php:736
+msgid "This image will be shown in the footer of your posts"
+msgstr ""
+
+#: ../inc/customizer.php:753
+msgid "Remove link to comments"
+msgstr ""
+
+#: ../inc/customizer.php:754
+msgid ""
+"This option will remove the \"No comments\" or \"x Comments\" link from "
+"posts on the home page"
+msgstr ""
+
+#: ../inc/customizer.php:769
+msgid "Remove tags from posts"
+msgstr ""
+
+#: ../inc/customizer.php:770
+msgid ""
+"Select this option if you would prefer for your tags not to be shown at the "
+"bottom of posts"
+msgstr ""
+
+#: ../inc/customizer.php:790
+msgid "Enable post carousel in footer"
+msgstr ""
+
+#: ../inc/customizer.php:805
+msgid "Date range for posts:"
+msgstr ""
+
+#: ../inc/customizer.php:808 ../inc/customizer.php:1771
+msgid "1 Year"
+msgstr ""
+
+#: ../inc/customizer.php:809 ../inc/customizer.php:1772
+msgid "1 Month"
+msgstr ""
+
+#: ../inc/customizer.php:810 ../inc/customizer.php:1773
+msgid "1 Week"
+msgstr ""
+
+#: ../inc/customizer.php:811 ../inc/customizer.php:1774
+msgid "All Time"
+msgstr ""
+
+#: ../inc/customizer.php:840 ../inc/customizer.php:1459
+msgid "Text color"
+msgstr ""
+
+#: ../inc/customizer.php:856 ../inc/customizer.php:1425
+msgid "Background color"
+msgstr ""
+
+#: ../inc/customizer.php:878
+msgid "Enable large post slider"
+msgstr ""
+
+#: ../inc/customizer.php:910
+msgid "Do NOT display posts from:"
+msgstr ""
+
+#: ../inc/customizer.php:926
+msgid "Number of Post to display:"
+msgstr ""
+
+#: ../inc/customizer.php:949
+msgid "Enable Instagram feed in footer"
+msgstr ""
+
+#: ../inc/customizer.php:964
+msgid "Number of images to show in Instagram feed in the footer"
+msgstr ""
+
+#: ../inc/customizer.php:993
+msgid "Left-align the navbar"
+msgstr ""
+
+#: ../inc/customizer.php:994
+msgid ""
+"Select this option to align the navbar menu items to the left, rather than "
+"in the center."
+msgstr ""
+
+#: ../inc/customizer.php:1010
+msgid "Search button"
+msgstr ""
+
+#: ../inc/customizer.php:1026
+msgid "Display social counter in the Footer"
+msgstr ""
+
+#: ../inc/customizer.php:1027
+msgid ""
+"Select this option to show your social media follower counts at the bottom "
+"of your website."
+msgstr ""
+
+#: ../inc/customizer.php:1042
+msgid "Enable comments on pages"
+msgstr ""
+
+#: ../inc/customizer.php:1043
+msgid ""
+"Select this option to enable comments on pages. This does not effect posts."
+msgstr ""
+
+#: ../inc/customizer.php:1058
+msgid "Copyright text in footer:"
+msgstr ""
+
+#: ../inc/customizer.php:1082
+msgid "Upload image"
+msgstr ""
+
+#: ../inc/customizer.php:1099
+msgid "Date range for Popular Posts:"
+msgstr ""
+
+#: ../inc/customizer.php:1102 ../inc/customizer.php:1717
+msgid "Tile"
+msgstr ""
+
+#: ../inc/customizer.php:1103 ../inc/customizer.php:1718
+msgid "Tile Horizontally"
+msgstr ""
+
+#: ../inc/customizer.php:1104 ../inc/customizer.php:1719
+msgid "Tile Vertically"
+msgstr ""
+
+#: ../inc/customizer.php:1105 ../inc/customizer.php:1720
+msgid "Stretch Full Screen"
+msgstr ""
+
+#: ../inc/customizer.php:1126
+msgid "Number of Products displayed in the shop:"
+msgstr ""
+
+#: ../inc/customizer.php:1145
+msgid "Remove sharing icons from products"
+msgstr ""
+
+#: ../inc/customizer.php:1146
+msgid ""
+"Select this option if you would prefer to use your own plugin for social "
+"sharing icons on products"
+msgstr ""
+
+#: ../inc/customizer.php:1167
+msgid "Navbar background color"
+msgstr ""
+
+#: ../inc/customizer.php:1184
+msgid "Navbar text color"
+msgstr ""
+
+#: ../inc/customizer.php:1200
+msgid "Navbar text hover color"
+msgstr ""
+
+#: ../inc/customizer.php:1217
+msgid "Navbar border color"
+msgstr ""
+
+#: ../inc/customizer.php:1235
+msgid "Header text color"
+msgstr ""
+
+#: ../inc/customizer.php:1252
+msgid "Outer background color"
+msgstr ""
+
+#: ../inc/customizer.php:1268
+msgid "Content background color"
+msgstr ""
+
+#: ../inc/customizer.php:1284
+msgid "Post title color"
+msgstr ""
+
+#: ../inc/customizer.php:1301
+msgid "Post title hover color"
+msgstr ""
+
+#: ../inc/customizer.php:1319
+msgid "Text links color"
+msgstr ""
+
+#: ../inc/customizer.php:1336
+msgid "Text links hover color"
+msgstr ""
+
+#: ../inc/customizer.php:1353
+msgid "Widget title background color"
+msgstr ""
+
+#: ../inc/customizer.php:1370
+msgid "Widget title text color"
+msgstr ""
+
+#: ../inc/customizer.php:1388
+msgid "Social Icon color"
+msgstr ""
+
+#: ../inc/customizer.php:1404
+msgid "Social Icon Hover color"
+msgstr ""
+
+#: ../inc/customizer.php:1442
+msgid "Border color"
+msgstr ""
+
+#: ../inc/customizer.php:1476
+msgid "Widget Icon"
+msgstr ""
+
+#: ../inc/customizer.php:1479
+msgid "Heart"
+msgstr ""
+
+#: ../inc/customizer.php:1480
+msgid "Plus"
+msgstr ""
+
+#: ../inc/customizer.php:1481
+msgid "None"
+msgstr ""
+
+#: ../inc/customizer.php:1497
+msgid "Use the official Bloglovin' widget"
+msgstr ""
+
+#: ../inc/customizer.php:1498
+msgid ""
+"Select this option if you would prefer to use the official Bloglovin' widget."
+msgstr ""
+
+#: ../inc/customizer.php:1548
+msgid "Body font:"
+msgstr ""
+
+#: ../inc/customizer.php:1572
+msgid "Header Text:"
+msgstr ""
+
+#: ../inc/customizer.php:1591
+msgid "Main body:"
+msgstr ""
+
+#: ../inc/customizer.php:1610
+msgid "Post titles:"
+msgstr ""
+
+#: ../inc/customizer.php:1653
+msgid "Italic post titles"
+msgstr ""
+
+#: ../inc/customizer.php:1654
+msgid ""
+"The post titles in this theme are set as italic by default. Uncheck this "
+"option to disable this."
+msgstr ""
+
+#: ../inc/customizer.php:1670
+msgid "Lowercase text"
+msgstr ""
+
+#: ../inc/customizer.php:1671
+msgid ""
+"This theme converts text such as widget titles to uppercase (capital "
+"letters). Select this option to disable this. This is useful if you change "
+"the fonts in the theme."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:399 ../inc/plugins/tgm.php:3034
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:400
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2172
+msgid "Required"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2175
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2191
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2194
+msgid "External Source"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2197
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2214
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2218
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2220
+msgid "Active"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2226
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2229
+msgid "Requires Update"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2232
+msgid "Update recommended"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2384
+msgid "Installed version:"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2392
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2404
+msgid "Available version:"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2427
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2441
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2442
+msgid "Source"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2443
+msgid "Type"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2447
+msgid "Version"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2448
+msgid "Status"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2608
+msgid "Install"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2614
+msgid "Update"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2617
+msgid "Activate"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2648
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2650
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2686
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:2688
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:3033
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:3367
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:3369
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:3370
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:3374
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:3375
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:3376
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:3377
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/plugins/tgm.php:3380
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:3382
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../inc/plugins/tgm.php:3383
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/template-tags.php:28
+msgid "Previous Post"
+msgstr ""
+
+#: ../inc/template-tags.php:29
+msgid "Next Post"
+msgstr ""
+
+#: ../inc/template-tags.php:61
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/template-tags.php:61 ../inc/template-tags.php:83
+msgid "Edit"
+msgstr ""
+
+#: ../inc/template-tags.php:70
+#, php-format
+msgid "<strong class=\"comment-author\">%s</strong>"
+msgstr ""
+
+#: ../inc/template-tags.php:75
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../search.php:10
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform.php:3
+msgid "Type some keywords..."
+msgstr ""
