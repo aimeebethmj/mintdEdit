@@ -509,7 +509,7 @@ input[type="submit"] {
 	text-transform: uppercase;
 	text-decoration: none;
 	letter-spacing: 2px;
-	border-radius: 0;
+	border-radius: 3px;
 	background: #111;
 }
 input[type="reset"] {
@@ -1340,7 +1340,7 @@ img[class*="attachment-"] {
 	text-decoration: none;
 	line-height: 38px;
 	-moz-transition: all 0.25s ease-out; -webkit-transition: all 0.25s ease-out; transition: all 0.25s ease-out;
-	font-size: 11px;
+	font-size: 10px;
 	font-weight: 400;
 	font-family: 'LuloCleanOne';
 	text-transform: uppercase;
@@ -1373,6 +1373,7 @@ img[class*="attachment-"] {
 }
 .menu-bar > ul > li {
 	display: inline-block;
+	margin-bottom: -4px;
 }
 .menu-bar ul ul li {
 	display: block;
