@@ -204,6 +204,9 @@
 	.site-info, .site-credit {
 		text-align: center;
 	}
+	.entry-header .entry-meta {
+	margin-bottom: 16px;
+	}
 }
 
 @media only screen and (max-width: 400px) {
@@ -243,6 +246,10 @@
 	}
 	.imagelightbox-arrow-right {
 		right: 1.25em; /* 20 */
+	}
+	.entry-title
+	{
+		font-size: 24px;
 	}
 }
 

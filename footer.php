@@ -52,9 +52,9 @@
 						wp_nav_menu( array('container_class' => 'footer-menu-bar', 'theme_location' => 'footer'));
 					} ?>
 				</div>
-				<div class="col-<?php echo $sm; ?>-5 site-credit">
+				<!-- <div class="col-<?php echo $sm; ?>-5 site-credit">
 					<?php $custom_credit = get_theme_mod('pipdig_custom_credit'); if ($custom_credit) { ?><span style="text-transform:none!important"><?php echo $custom_credit; ?><span><?php } else { ?><a href="<?php echo esc_url('http://www.pipdig.co'); ?>" target="_blank"><?php echo get_option('p3_amicorumi', 'WordPress Theme'); ?></a> BY <a href="<?php echo esc_url('https://plus.google.com/+Pipdig'); ?>" style="text-transform:lowercase">pipdig</a><?php } ?>
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</footer>
