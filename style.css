@@ -501,7 +501,7 @@ button,
 input[type="button"],
 input[type="reset"],
 input[type="submit"] {
-	padding: 10px 15px;
+	padding: 12px 15px 10px;
 	color: #fff;
 	font-size: 10px;
 	font-weight: 400;
@@ -627,7 +627,7 @@ img[class*="attachment-"] {
 /* Layout
    ========================================================================== */
 .container {
-	max-width: 1080px;
+	max-width: 944px;
 	position: relative;
 	margin-right: auto;
 	margin-left: auto;
@@ -3039,7 +3039,7 @@ list-style: none;
 }
 .top-slider-section {
 	position: relative;
-	height: 600px;
+	height: 500px;
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
